@@ -1,4 +1,4 @@
-######Binary vs linear seach
+###### Binary vs linear seach
 
 hello this is my result/readme as of right now my program was not able to run but
 I was still able to write functions for everything but i was not able to make everything
